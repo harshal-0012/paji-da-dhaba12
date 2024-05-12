@@ -17,6 +17,7 @@ Storage Accounts
 # Azure AI Service:
 AI Language service for making qna bot.
 
+
 # GITHUB deployment URL :
 https://harshal-0012.github.io/
 
@@ -28,7 +29,22 @@ https://pajidadhaba.z29.web.core.windows.net/
 
 # Images of the Website:
 
-![Screenshot (1037)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/ff7da80d-0d40-4f39-9339-aa2e31ee57d0)
+
+![Screenshot (1028)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/8a39f473-4c88-4240-80b6-00dfe9539fda)
+![Screenshot (1029)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/379758c0-2fe2-4e33-bea0-f9e1cf6d383e)
+![Screenshot (1030)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/035570ab-19ee-41d4-aefc-a2220e03bab3)
+![Screenshot (1031)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/5b7ad578-c650-4a6f-9747-cf18adfb857b)
+![Screenshot (1032)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/e9336a78-93ad-438e-a206-b753472790dc)
+![Screenshot (1033)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/681cdac0-71e1-44f9-82dd-bff887846a5c)
+![Screenshot (1034)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/865d7310-839e-4904-b681-b2d64eff632e)
+![Screenshot (1035)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/3481da76-c79d-4751-9f71-61bd28fbbcee)
+![Screenshot (1037)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/8429ada7-9db9-4847-9eab-bb31bef455d6)
+
+
+
+
+
+
 
 
 
