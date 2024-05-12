@@ -60,6 +60,8 @@ https://pajidadhaba.z29.web.core.windows.net/
 ![Screenshot (1014)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/d4db0cd4-a07b-4768-bbd2-d5c6bcac31d1)
 ![Screenshot (1015)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/5af3eeca-28e9-4abe-a956-53654767e21e)
 ![Screenshot (1027)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/a6131c83-13b1-4bf1-a739-4115369b4aba)
+![Screenshot (1039)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/0457002d-cd78-440a-bfac-e4d9e2cfb7e5)
+
 
 3) Created an azure static web apps resource and deployed static website from github account source code.
 
