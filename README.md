@@ -40,6 +40,36 @@ https://pajidadhaba.z29.web.core.windows.net/
 ![Screenshot (1035)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/3481da76-c79d-4751-9f71-61bd28fbbcee)
 ![Screenshot (1037)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/8429ada7-9db9-4847-9eab-bb31bef455d6)
 
+# Steps which are used in azure portal (screenshots):
+1)Deployed a qna bot with azure ai language service on azure portal and used in website.
+![Screenshot (999)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/744876ab-0ac5-4b74-b06a-721d97ef93ee)
+![Screenshot (1000)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/e70f8668-d018-4da9-8359-7c2789f84f0f)
+![Screenshot (1001)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/d68ce95b-a23f-4e54-9e36-f4df6d0a4598)
+![Screenshot (1003)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/401a5e13-ee59-4ac5-965e-f2c1a9933ff7)
+![Screenshot (1004)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/aa361dad-3d3f-4c73-9453-06ef0535a110)
+![Screenshot (1005)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/30bd42b5-9618-44d0-99fc-a8a667979612)
+![Screenshot (1006)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/0b511bd7-198e-42cd-b7ac-1b40970856b4)
+![Screenshot (1007)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/52718ff0-83a5-4e68-a9f4-34deb4c0d7b0)
+![Screenshot (1009)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/282e3929-58bf-4fd4-8cf7-8757b6fb995f)
+![Screenshot (1010)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/8bb44dcf-5695-4d94-abe9-2cfc9a299e99)
+![Screenshot (1012)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/f3f58ec9-5afe-4d6f-96c9-57ee5ce4e418)
+
+2) Created an azure storage resource and made container uploaded files in container and deployed website .
+
+![Screenshot (1013)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/cb86468b-c1b3-4403-9e45-3afecb33dd33)
+![Screenshot (1014)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/d4db0cd4-a07b-4768-bbd2-d5c6bcac31d1)
+![Screenshot (1015)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/5af3eeca-28e9-4abe-a956-53654767e21e)
+![Screenshot (1027)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/a6131c83-13b1-4bf1-a739-4115369b4aba)
+
+3) Created an azure static web apps resource and deployed static website from github account source code.
+
+![Screenshot (1017)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/71ac99dc-dc18-4d6d-96f0-befa6c8f6f6c)
+![Screenshot (1018)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/b59cd6ce-8063-471a-addc-fce1d146eaf7)
+![Screenshot (1019)](https://github.com/harshal-0012/harshal-0012.github.io/assets/162455686/444c725e-3a26-4794-9889-a48c64da9a65)
+
+
+
+
 
 
 
